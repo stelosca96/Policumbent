@@ -33,8 +33,10 @@
   https://github.com/stelosca96/TaurusApp
 
 ## Stazioni meteo
-### Test su ESP8266
+### Pi 0 W weather station
   https://github.com/stelosca96/Policumbent-Weather
+### Test su ESP8266
+  https://github.com/stelosca96/Policumbent-Weather-ESP8266
 
 ## Progetti vecchi
 ### Telemetria vecchia (2018)
