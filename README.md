@@ -25,7 +25,7 @@
   https://github.com/stelosca96/Policumbent-ant-schermi
 #### Libreria GPS
   https://github.com/stelosca96/SteGPS
-### Softare Arduino Cambio
+### Software Arduino Cambio
   https://github.com/stelosca96/Policumbent-Arduino-cambio
 
 ## App android
